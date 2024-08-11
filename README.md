@@ -14,10 +14,10 @@ Some images of the project are attached below:-
 4) Login/Register
 ![4](https://github.com/user-attachments/assets/c5c3cf14-7040-488b-b91e-64715e307174)
 
-6) Create your Profile (redirected here after the registration)
+6) Create your Profile (user gets redirected here after the registration)
 ![5](https://github.com/user-attachments/assets/e4ba6f81-9fea-48ff-ab01-6e96d33f6b9a)
 
-8) Your profile starts showing on the website after creation of profile
+8) Your profile starts showing on the website after updating details
 ![6](https://github.com/user-attachments/assets/c57a04ab-9184-4a7d-9eec-875e14baef0f)
 
 10) Profile Navigation bar 
